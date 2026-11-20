@@ -1,0 +1,36 @@
+{
+  "name": "Pipelio",
+  "identifier": "io.pipelio.source",
+  "sourceURL": "https://raw.githubusercontent.com/callsavvys/pipelio-ios/main/source.json",
+  "website": "https://pipelio.io",
+  "iconURL": "https://raw.githubusercontent.com/callsavvys/pipelio-ios/main/icon.png",
+  "tintColor": "#0A9A74",
+  "apps": [
+    {
+      "name": "Pipelio",
+      "bundleIdentifier": "io.pipelio.app",
+      "developerName": "Pipelio",
+      "subtitle": "Your calls and follow-ups",
+      "localizedDescription": "Replay seller calls, catch missed ones and clear today's follow-ups.",
+      "iconURL": "https://raw.githubusercontent.com/callsavvys/pipelio-ios/main/icon.png",
+      "tintColor": "#0A9A74",
+      "category": "productivity",
+      "versions": [
+        {
+          "version": "0.1.2",
+          "buildVersion": "3",
+          "date": "2026-11-20T20:56:48.521Z",
+          "size": 12185754,
+          "downloadURL": "https://github.com/callsavvys/pipelio-ios/releases/download/v0.1.2-3/Pipelio.ipa",
+          "localizedDescription": "Calls, recordings, tasks and notifications from Pipelio.",
+          "minOSVersion": "16.4"
+        }
+      ],
+      "version": "0.1.2",
+      "versionDate": "2026-11-20T20:56:48.521Z",
+      "downloadURL": "https://github.com/callsavvys/pipelio-ios/releases/download/v0.1.2-3/Pipelio.ipa",
+      "size": 12185754
+    }
+  ],
+  "news": []
+}
