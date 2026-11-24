@@ -17,6 +17,15 @@
       "category": "productivity",
       "versions": [
         {
+          "version": "0.1.6",
+          "buildVersion": "11",
+          "date": "2026-11-24T01:27:38.358Z",
+          "size": 16648342,
+          "downloadURL": "https://github.com/callsavvys/pipelio-ios/releases/download/v0.1.6-11/Pipelio.ipa",
+          "localizedDescription": "Calls, recordings, tasks and notifications from Pipelio.",
+          "minOSVersion": "16.4"
+        },
+        {
           "version": "0.1.5",
           "buildVersion": "10",
           "date": "2026-11-23T20:19:49.605Z",
@@ -89,10 +98,10 @@
           "minOSVersion": "16.4"
         }
       ],
-      "version": "0.1.5",
-      "versionDate": "2026-11-23T20:19:49.605Z",
-      "downloadURL": "https://github.com/callsavvys/pipelio-ios/releases/download/v0.1.5-10/Pipelio.ipa",
-      "size": 16637052
+      "version": "0.1.6",
+      "versionDate": "2026-11-24T01:27:38.358Z",
+      "downloadURL": "https://github.com/callsavvys/pipelio-ios/releases/download/v0.1.6-11/Pipelio.ipa",
+      "size": 16648342
     }
   ],
   "news": []
